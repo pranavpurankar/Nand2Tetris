@@ -8,25 +8,25 @@ In today's world, computers are ubiquitous, yet many of us lack a deep understan
 
 **_Nand2Tetris covers the following key areas:_**
 
-*_Hardware:_* From Boolean arithmetic to chip simulation and testing.   
+**_Hardware:_** From Boolean arithmetic to chip simulation and testing.   
 
-*_Architecture:_* Including ALU/CPU design, addressing modes, and memory-mapped I/O.  
+**_Architecture:_** Including ALU/CPU design, addressing modes, and memory-mapped I/O.  
 
-*_Low-level Languages:_* Design and implementation of machine language and assembly programming.  
+**_Low-level Languages:_** Design and implementation of machine language and assembly programming.  
 
-*_Virtual Machines:_* Stack-based automata, function call handling, and VM language design.  
+**_Virtual Machines:_** Stack-based automata, function call handling, and VM language design.  
 
-*_High-level Languages:_* Object-based language design and implementation.  
+**_High-level Languages:_** Object-based language design and implementation.  
 
-*_Compilers:_* Lexical analysis, parsing, code generation, and two-tier compilation.  
+**_Compilers:_** Lexical analysis, parsing, code generation, and two-tier compilation.  
 
-*_Programming:_* Implementation of assemblers, virtual machines, and compilers.  
+**_Programming:_** Implementation of assemblers, virtual machines, and compilers.  
 
-*_Operating Systems:_* Design and implementation of memory management, input/output drivers, and more.  
+**_Operating Systems:_** Design and implementation of memory management, input/output drivers, and more.  
 
-*_Data Structures and Algorithms:_* Covering a range of fundamental data structures and algorithms.  
+**_Data Structures and Algorithms:_** Covering a range of fundamental data structures and algorithms.  
 
-*_Software Engineering:_* Modular design, API design, unit testing, and quality assurance.  
+**_Software Engineering:_** Modular design, API design, unit testing, and quality assurance.  
 
 ----
 
