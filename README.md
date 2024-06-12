@@ -8,25 +8,26 @@ In today's world, computers are ubiquitous, yet many of us lack a deep understan
 
 **_Nand2Tetris covers the following key areas:_**
 
-*Hardware:* From Boolean arithmetic to chip simulation and testing.   
+*_Hardware:_* From Boolean arithmetic to chip simulation and testing.   
 
-*Architecture:* Including ALU/CPU design, addressing modes, and memory-mapped I/O.  
+*_Architecture:_* Including ALU/CPU design, addressing modes, and memory-mapped I/O.  
 
-*Low-level Languages:* Design and implementation of machine language and assembly programming.  
+*_Low-level Languages:_* Design and implementation of machine language and assembly programming.  
 
-*Virtual Machines:* Stack-based automata, function call handling, and VM language design.  
+*_Virtual Machines:_* Stack-based automata, function call handling, and VM language design.  
 
-*High-level Languages:* Object-based language design and implementation.  
+*_High-level Languages:_* Object-based language design and implementation.  
 
-*Compilers:* Lexical analysis, parsing, code generation, and two-tier compilation.  
+*_Compilers:_* Lexical analysis, parsing, code generation, and two-tier compilation.  
 
-*Programming:* Implementation of assemblers, virtual machines, and compilers.  
+*_Programming:_* Implementation of assemblers, virtual machines, and compilers.  
 
-*Operating Systems:* Design and implementation of memory management, input/output drivers, and more.  
+*_Operating Systems:_* Design and implementation of memory management, input/output drivers, and more.  
 
-*Data Structures and Algorithms:* Covering a range of fundamental data structures and algorithms.  
+*_Data Structures and Algorithms:_* Covering a range of fundamental data structures and algorithms.  
 
-*Software Engineering:* Modular design, API design, unit testing, and quality assurance.  
+*_Software Engineering:_* Modular design, API design, unit testing, and quality assurance.  
+
 ----
 
 This repository provides supplemental resources, including completed solutions for the exercises and all weekly assignments, alongside the final project code.
@@ -34,4 +35,5 @@ This repository provides supplemental resources, including completed solutions f
 *__Let's dive into the world of computer science and engineering, one logic gate at a time!__*
 
 Note: Portions of this README are adapted from the Nand to Tetris course materials for clarity and conciseness.
+
 ---
